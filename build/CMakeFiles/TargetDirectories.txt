@@ -1,0 +1,7 @@
+/home/oodufowkan/projects/Homework_8_New/build/CMakeFiles/homework_8_new.dir
+/home/oodufowkan/projects/Homework_8_New/build/CMakeFiles/edit_cache.dir
+/home/oodufowkan/projects/Homework_8_New/build/CMakeFiles/rebuild_cache.dir
+/home/oodufowkan/projects/Homework_8_New/build/CMakeFiles/list_install_components.dir
+/home/oodufowkan/projects/Homework_8_New/build/CMakeFiles/install.dir
+/home/oodufowkan/projects/Homework_8_New/build/CMakeFiles/install/local.dir
+/home/oodufowkan/projects/Homework_8_New/build/CMakeFiles/install/strip.dir

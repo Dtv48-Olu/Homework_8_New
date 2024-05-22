@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/oodufowkan/projects/Homework_8_New/build",
+  "command": "/usr/bin/c++ -g -o CMakeFiles/homework_8_new.dir/main.cpp.o -c /home/oodufowkan/projects/Homework_8_New/main.cpp",
+  "file": "/home/oodufowkan/projects/Homework_8_New/main.cpp",
+  "output": "CMakeFiles/homework_8_new.dir/main.cpp.o"
+}
+]
