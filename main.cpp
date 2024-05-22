@@ -1,4 +1,3 @@
-// OAO230002
 // Olutoye Odufowokan
 #include <iostream>
 #include <string>
